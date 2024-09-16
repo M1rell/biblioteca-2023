@@ -14,5 +14,5 @@ dependencies {
 	implementation 'org.springframework.boot:spring-boot-starter-data-jpa'
 	implementation 'jakarta.servlet.jsp.jstl:jakarta.servlet.jsp.jstl-api'
 	implementation 'org.glassfish.web:jakarta.servlet.jsp.jstl'
-	implementation 'mysql:myslq-connector-java:8.0.33'
+	implementation 'mysql:mysql-connector-java:8.0.33'
 }
